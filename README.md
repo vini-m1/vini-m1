@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Vini-m1 😁
+## Bem-vindo(a) ao perfil do Vini 😁
 
  <div>
    <a href="https://github.com/vini-m1">
